@@ -26,11 +26,11 @@ function Home() {
       <header className="App-header">
         <Typography variant="h1" gutterBottom>
           {" "}
-          Danyul App
+          Tweaky App
         </Typography>
         <img
           src={
-            "https://scontent.fhio2-2.fna.fbcdn.net/v/t39.30808-6/277445681_10100752976725578_1843621580474304088_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ad2b24&_nc_ohc=JUUHNiRZGHgAX9gWbWc&_nc_ht=scontent.fhio2-2.fna&oh=00_AT-0FzkoCTkNMTlXOvyFx09md-Nrnr9F1P2nDLIx6uKhpw&oe=632C6700"
+            "https://progameguides.com/wp-content/uploads/2020/06/fortnite-outfit-metal-team-leader-1.jpg"
           }
           className="App-logo"
           alt="logo"
@@ -56,7 +56,7 @@ function Home() {
             Mak me speek
           </Button>
           <Typography variant="h3" component="h2" gutterBottom>
-            {"Daniel Says:"}
+            {"Mr. Bubbles Says:"}
           </Typography>
           <Typography variant="h5">{`"${current_quote}"`}</Typography>
         </Container>
